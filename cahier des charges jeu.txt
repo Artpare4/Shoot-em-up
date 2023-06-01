@@ -1,0 +1,10 @@
+
+
+Indication:
+-un ennemie (pour l'instant)--->arrivée façon aléatoire
+-beaucoup d'ennemies à l'écran
+-un vaisseau (joueur)-----> se déplace en 2d(avant-arrière , gauche-droite)
+-but :survire le plus longtemps ----> indication du temps 
+-2 vies ---->quand vaisseau touche un ennemie , il perd une vie (fun quand vie=0)
+Optionnel:
+-augmentation de la difficulté aucours du temps (plafond au bout d'un moment ) 
