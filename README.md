@@ -1,5 +1,5 @@
 # Shoot-em-up
-
+Petit jeu en python réalisé lors de mon année de terminal .
 ## Configuration 
 - Install pygame
 - Install Python
